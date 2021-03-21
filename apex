@@ -1,0 +1,15 @@
+gInput = 0x0000000002308BF0
+UserCMD Checksum = 0x000000000090DEA0
+GetPlayerName = 0x00000000006E70A0
+GetAbsOrigin = 0x000000000041F900
+Local Entity = 0x000000000172263C
+View Render = 0x000000000C18A330
+Get Weapon Name = 0x00000001008F12B0
+GetEyePos = 0x000000000062DB80
+iHealth = 0x3d4
+iMaxHealth = 0x4fc
+iShieldHealth = 0x15
+iMaxShieldHealth = 0x154
+iTeamNum = 0x3e4
+ModelIndex = 0x12d4
+WeaponState = 0x1300
